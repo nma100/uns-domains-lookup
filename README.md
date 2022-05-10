@@ -19,3 +19,8 @@ Create production build :
 ```
 npm run build
 ```
+
+Start development server :
+```
+npm start
+```
