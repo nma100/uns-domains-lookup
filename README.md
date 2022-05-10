@@ -19,6 +19,3 @@ Create production build :
 ```
 npm run build
 ```
-
-## Libraries
-The application is built with  [React](https://reactjs.org/) and [Bootstrap](https://getbootstrap.com/). 
