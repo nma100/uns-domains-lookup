@@ -3,7 +3,6 @@ This application retrieves records and metadata of an [unstoppable domain](https
 
 * Video demo : https://youtu.be/iN9LiPM33vc
 * Site demo : http://uns-domains-lookup.mywire.org
-* Github repo : https://github.com/nma100/uns-domains-lookup
 * Discord ID : Nma#7520
 * UnstoppableDomain account email : manrique.nico@gmail.com
 
