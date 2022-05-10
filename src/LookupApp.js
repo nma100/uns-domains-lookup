@@ -43,7 +43,7 @@ function LookupApp() {
     <div className="p-5">
       <div className="text-center mb-5">
         <h1 className="page-title display-1 mb-3">Unstoppable Domain Lookup</h1>
-        <h2 className="text-muted">Domain records and metadata</h2>
+        <h2 className="text-muted">Retrieve domain records and metadata</h2>
       </div>
       <form onSubmit={processLookup}>
         <div className="input-group mb-4">

@@ -1,15 +1,24 @@
 # Unstoppable domains lookup
-This application retrieves records and metadata of a domain thanks to the Alchemy Unstoppable API.
+This application retrieves records and metadata of an [unstoppable domain](https://unstoppabledomains.com/) thanks to the [Alchemy API](https://docs.alchemy.com/alchemy/enhanced-apis/unstoppable-domains-apis).
 
-## Video demo
+* Video demo : https://youtu.be/iN9LiPM33vc
+* Site demo : http://uns-domains-lookup.mywire.org
+* Github repo : https://github.com/nma100/uns-domains-lookup
+* Discord ID : Nma#7520
+* UnstoppableDomain account email : manrique.nico@gmail.com
 
-## Site demo
 
-## Github repo
-https://github.com/nma100/uns-domains-lookup
+## Build
 
-## Discord ID
-Nma#7520
+Install dependencies :
+```
+npm install
+```
 
-## UnstoppableDomain registered account email address 
-manrique.nico@gmail.com
+Create production build :
+```
+npm run build
+```
+
+## Libraries
+The application is built with  [React](https://reactjs.org/) and [Bootstrap](https://getbootstrap.com/). 
