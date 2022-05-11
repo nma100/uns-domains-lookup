@@ -1,7 +1,7 @@
 import './LookupApp.css';
 
 const API_URL = 'https://unstoppabledomains.g.alchemy.com/domains/';
-const API_KEY = 'UD07rKAnLUu7S25dFgpytUGXmuEihNv7';
+const API_KEY = '';
 
 let showSpinner = isVisible => document.getElementById('spinner').style.opacity = isVisible ? 1 : 0; 
 
